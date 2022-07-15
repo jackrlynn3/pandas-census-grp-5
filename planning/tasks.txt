@@ -1,0 +1,9 @@
+Jack: Cleaning
+Stanley: Visualizations
+Sam: ETL report, report editor
+Tavianne: Visualizations
+
+Friday morning: cleaning, ETL, exploration
+Friday night: visualizations
+Saturday: write report and PowerPoint
+Sunday: Meeting at 8M/9C/10E
