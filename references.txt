@@ -1,0 +1,16 @@
+References:
+
+Genesis10. (2021, August 12). Assessment: Census API Data - Annual Business Survey 2019. Retrieved July 15, 2022, 
+    from Brightspace website: https://stage3talent.brightspace.com/d2l/le/content/6899/viewContent/17439/View
+
+Lynn, J. (2022, July 15). panda-census-grp-5 (S. Wainright, T. Kemp, & S. Perez, Eds.). Retrieved July 15, 2022, 
+    from GitHub website: https://github.com/jackrlynn3/pandas-census-grp-5
+
+United States Census Bureau. (2021a, October 8). Census Data API User Guide. Retrieved July 15, 2022, 
+    from census.gov website: https://www.census.gov/data/developers/guidance/api-user-guide.Overview.html
+
+United States Census Bureau. (2021b, October 28). Annual Business Survey (ABS) APIs. Retrieved July 15, 2022, 
+    from census.gov website: https://www.census.gov/data/developers/data-sets/abs.2019.html
+
+United States Census Bureau. (2022, July 13). Census API: Datasets in /data and its descendants. 
+    Retrieved July 15, 2022, from census.gov website: https://api.census.gov/data.html
