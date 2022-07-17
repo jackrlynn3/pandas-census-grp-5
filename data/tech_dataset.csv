@@ -71,10 +71,10 @@
 69,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: Required data not reliable,2018,656,0.2,74775,0.1,,,12462,0.1,All firms,All firms,All firms
 70,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: Lacked access to required human capital and talent,2018,,,,,,,,,All firms,All firms,All firms
 71,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: Laws and regulations,2018,1542,0.5,306127,0.2,,,47142,0.3,All firms,All firms,All firms
-72,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,4742,1.5,1794546,1.4,,,311171,1.7,All firms,All firms,All firms
-73,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: Lacked access to capital,2018,2981,0.9,1533475,1.2,,,159135,0.9,All firms,All firms,All firms
-74,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: Technology not applicable to this business,2018,127093,40.0,46329195,36.3,,,7157832,38.5,All firms,All firms,All firms
-75,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: No factors adversely affected the adoption of this technology,2018,165025,51.9,70541067,55.2,,,10231543,55.0,All firms,All firms,All firms
+72,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: No factors adversely affected the adoption of this technology,2018,165025,51.9,70541067,55.2,,,10231543,55.0,All firms,All firms,All firms
+73,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,4742,1.5,1794546,1.4,,,311171,1.7,All firms,All firms,All firms
+74,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: Lacked access to capital,2018,2981,0.9,1533475,1.2,,,159135,0.9,All firms,All firms,All firms
+75,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: Technology not applicable to this business,2018,127093,40.0,46329195,36.3,,,7157832,38.5,All firms,All firms,All firms
 76,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Cloud-Based: Total Reporting,2018,317847,100.0,127759281,100.0,,,18607617,100.0,All firms,All firms,All firms
 77,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Specialized Software: Technology was too expensive,2018,17298,5.4,5742810,4.5,,,612751,3.3,All firms,All firms,All firms
 78,Total for all sectors,Total,Total,Total,Total,Firms with no employees,Specialized Software: Technology was not mature,2018,1668,0.5,402993,0.3,,,68905,0.4,All firms,All firms,All firms
@@ -219,9 +219,9 @@
 217,Total for all sectors,Total,Total,Total,Total,Firms with 10 employees or more,Robotics: Concerns regarding safety and security (physical security and/or cyber security),2018,4546,0.4,1078148328,3.9,1588009,1.9,122283906,2.7,All firms,All firms,All firms
 218,Total for all sectors,Total,Total,Total,Total,Firms with 10 employees or more,Robotics: Lacked access to capital,2018,9170,0.9,746782308,2.7,1504197,1.8,102649596,2.3,All firms,All firms,All firms
 219,Total for all sectors,Total,Total,Total,Total,Firms with 10 employees or more,Robotics: Technology not applicable to this business,2018,512834,47.7,10256958811,37.4,36054064,43.5,1796474754,39.5,All firms,All firms,All firms
-220,Total for all sectors,Female,Total,Total,Total,Firms with 1 to 9 employees,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,6915,1.0,3284821,1.0,22787,1.0,975927,1.3,All firms,All firms,All firms
-221,Total for all sectors,Female,Total,Total,Total,Firms with 1 to 9 employees,Specialized Software: Lacked access to capital,2018,7607,1.1,3322376,1.0,26665,1.2,887177,1.1,All firms,All firms,All firms
-222,Total for all sectors,Female,Total,Total,Total,Firms with 1 to 9 employees,Specialized Software: Technology not applicable to this business,2018,296614,41.2,130399471,38.0,883401,39.9,29099630,37.5,All firms,All firms,All firms
+220,Total for all sectors,Female,Total,Total,Total,Firms with 1 to 9 employees,Specialized Software: Technology not applicable to this business,2018,296614,41.2,130399471,38.0,883401,39.9,29099630,37.5,All firms,All firms,All firms
+221,Total for all sectors,Female,Total,Total,Total,Firms with 1 to 9 employees,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,6915,1.0,3284821,1.0,22787,1.0,975927,1.3,All firms,All firms,All firms
+222,Total for all sectors,Female,Total,Total,Total,Firms with 1 to 9 employees,Specialized Software: Lacked access to capital,2018,7607,1.1,3322376,1.0,26665,1.2,887177,1.1,All firms,All firms,All firms
 223,Total for all sectors,Female,Total,Total,Total,Firms with 1 to 9 employees,Specialized Software: No factors adversely affected the adoption of this technology,2018,360377,50.0,181414324,52.9,1122534,50.6,41610625,53.6,All firms,All firms,All firms
 224,Total for all sectors,Female,Total,Total,Total,Firms with 1 to 9 employees,Specialized Software: Total Reporting,2018,720548,100.0,342944806,100.0,2216689,100.0,77655189,100.0,All firms,All firms,All firms
 225,Total for all sectors,Female,Total,Total,Total,Firms with 1 to 9 employees,Robotics: Technology was too expensive,2018,35457,4.9,18837082,5.5,122205,5.5,3753421,4.8,All firms,All firms,All firms
@@ -505,10 +505,10 @@
 503,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Artificial Intelligence: No factors adversely affected the adoption of this technology,2018,90745,45.9,41718309,46.5,,,6336706,47.9,All firms,All firms,All firms
 504,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Artificial Intelligence: Total Reporting,2018,197776,100.0,89734686,100.0,,,13229799,100.0,All firms,All firms,All firms
 505,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Technology was too expensive,2018,10845,5.5,4379454,4.9,,,426251,3.2,All firms,All firms,All firms
-506,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Technology was not mature,2018,1139,0.6,365080,0.4,,,56056,0.4,All firms,All firms,All firms
-507,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Lacked access to required data,2018,872,0.4,318148,0.4,,,42392,0.3,All firms,All firms,All firms
-508,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Required data not reliable,2018,414,0.2,49028,0.1,,,8161,0.1,All firms,All firms,All firms
-509,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Lacked access to required human capital and talent,2018,,,,,,,,,All firms,All firms,All firms
+506,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Lacked access to required human capital and talent,2018,,,,,,,,,All firms,All firms,All firms
+507,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Technology was not mature,2018,1139,0.6,365080,0.4,,,56056,0.4,All firms,All firms,All firms
+508,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Lacked access to required data,2018,872,0.4,318148,0.4,,,42392,0.3,All firms,All firms,All firms
+509,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Required data not reliable,2018,414,0.2,49028,0.1,,,8161,0.1,All firms,All firms,All firms
 510,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Laws and regulations,2018,961,0.5,227893,0.3,,,30939,0.2,All firms,All firms,All firms
 511,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
 512,Total for all sectors,Male,Total,Total,Total,Firms with no employees,Cloud-Based: Lacked access to capital,2018,,,,,,,,,All firms,All firms,All firms
@@ -683,10 +683,10 @@
 681,Total for all sectors,Male,Total,Total,Total,Firms with 10 employees or more,Specialized Software: Laws and regulations,2018,3905,0.6,31966972,0.4,163567,0.5,8405919,0.5,All firms,All firms,All firms
 682,Total for all sectors,Male,Total,Total,Total,Firms with 10 employees or more,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,6048,0.9,93562385,1.1,435311,1.3,20440767,1.3,All firms,All firms,All firms
 683,Total for all sectors,Equally male/female,Total,Total,Total,All firms,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,3086,0.4,6636061,0.6,40179,0.6,1634612,0.7,All firms,All firms,All firms
-684,Total for all sectors,Equally male/female,Total,Total,Total,All firms,Specialized Equipment: Lacked access to capital,2018,9806,1.3,12602195,1.1,75087,1.0,2716778,1.1,All firms,All firms,All firms
-685,Total for all sectors,Equally male/female,Total,Total,Total,All firms,Specialized Equipment: Technology not applicable to this business,2018,342300,46.0,494584717,42.8,3086969,42.8,104959793,42.7,All firms,All firms,All firms
-686,Total for all sectors,Equally male/female,Total,Total,Total,All firms,Specialized Equipment: No factors adversely affected the adoption of this technology,2018,345368,46.4,583438062,50.5,3590411,49.7,124605830,50.7,All firms,All firms,All firms
-687,Total for all sectors,Equally male/female,Total,Total,Total,All firms,Specialized Equipment: Total Reporting,2018,744169,100.0,1154425197,100.0,7217284,100.0,245556095,100.0,All firms,All firms,All firms
+684,Total for all sectors,Equally male/female,Total,Total,Total,All firms,Specialized Equipment: Total Reporting,2018,744169,100.0,1154425197,100.0,7217284,100.0,245556095,100.0,All firms,All firms,All firms
+685,Total for all sectors,Equally male/female,Total,Total,Total,All firms,Specialized Equipment: Lacked access to capital,2018,9806,1.3,12602195,1.1,75087,1.0,2716778,1.1,All firms,All firms,All firms
+686,Total for all sectors,Equally male/female,Total,Total,Total,All firms,Specialized Equipment: Technology not applicable to this business,2018,342300,46.0,494584717,42.8,3086969,42.8,104959793,42.7,All firms,All firms,All firms
+687,Total for all sectors,Equally male/female,Total,Total,Total,All firms,Specialized Equipment: No factors adversely affected the adoption of this technology,2018,345368,46.4,583438062,50.5,3590411,49.7,124605830,50.7,All firms,All firms,All firms
 688,Total for all sectors,Male,Total,Total,Total,Firms with 10 employees or more,Specialized Software: Lacked access to capital,2018,7905,1.1,79816175,0.9,379597,1.1,18154616,1.1,All firms,All firms,All firms
 689,Total for all sectors,Male,Total,Total,Total,Firms with 10 employees or more,Specialized Software: Technology not applicable to this business,2018,227243,32.3,2381180927,28.2,9738958,28.7,423543076,26.7,All firms,All firms,All firms
 690,Total for all sectors,Male,Total,Total,Total,Firms with 10 employees or more,Specialized Software: No factors adversely affected the adoption of this technology,2018,418006,59.4,5444671246,64.4,21511388,63.4,1043080773,65.7,All firms,All firms,All firms
@@ -1028,10 +1028,10 @@
 1026,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Technology was not mature,2018,930,0.5,708303,0.7,3031,0.5,124904,0.6,All firms,All firms,All firms
 1027,Total for all sectors,Total,Hispanic,Total,Total,Firms with no employees,Artificial Intelligence: Technology was too expensive,2018,1202,7.6,237968,4.5,,,26922,4.7,All firms,All firms,All firms
 1028,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Lacked access to required data,2018,777,0.4,412298,0.4,2374,0.4,73263,0.3,All firms,All firms,All firms
-1029,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Required data not reliable,2018,532,0.3,354915,0.3,1565,0.3,59700,0.3,All firms,All firms,All firms
-1030,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Lacked access to required human capital and talent,2018,1368,0.7,957890,0.9,5348,0.9,233999,1.1,All firms,All firms,All firms
-1031,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Laws and regulations,2018,1054,0.5,561534,0.5,3798,0.6,166303,0.8,All firms,All firms,All firms
-1032,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,3348,1.7,2928054,2.7,11444,1.9,482978,2.3,All firms,All firms,All firms
+1029,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,3348,1.7,2928054,2.7,11444,1.9,482978,2.3,All firms,All firms,All firms
+1030,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Required data not reliable,2018,532,0.3,354915,0.3,1565,0.3,59700,0.3,All firms,All firms,All firms
+1031,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Lacked access to required human capital and talent,2018,1368,0.7,957890,0.9,5348,0.9,233999,1.1,All firms,All firms,All firms
+1032,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Laws and regulations,2018,1054,0.5,561534,0.5,3798,0.6,166303,0.8,All firms,All firms,All firms
 1033,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Lacked access to capital,2018,2338,1.2,1215056,1.1,8117,1.3,249814,1.2,All firms,All firms,All firms
 1034,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: Technology not applicable to this business,2018,86755,44.2,42722578,39.7,258456,42.3,8762778,41.2,All firms,All firms,All firms
 1035,Total for all sectors,Total,Hispanic,Total,Total,Firms with 1 to 9 employees,Cloud-Based: No factors adversely affected the adoption of this technology,2018,86977,44.4,51531337,47.9,279700,45.8,10115581,47.6,All firms,All firms,All firms
@@ -1257,10 +1257,10 @@
 1255,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with 1 to 9 employees,Specialized Equipment: No factors adversely affected the adoption of this technology,2018,13870,47.6,8925318,51.9,50359,51.5,1981282,52.0,All firms,All firms,All firms
 1256,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with 1 to 9 employees,Specialized Equipment: Total Reporting,2018,29110,100.0,17206396,100.0,97840,100.0,3811101,100.0,All firms,All firms,All firms
 1257,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
-1258,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: Lacked access to required human capital and talent,2018,,,,,,,,,All firms,All firms,All firms
-1259,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
-1260,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
-1261,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: Lacked access to capital,2018,,,,,,,,,All firms,All firms,All firms
+1258,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: Lacked access to capital,2018,,,,,,,,,All firms,All firms,All firms
+1259,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: Lacked access to required human capital and talent,2018,,,,,,,,,All firms,All firms,All firms
+1260,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
+1261,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
 1262,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: Technology not applicable to this business,2018,402,24.0,57112,12.5,,,10302,20.0,All firms,All firms,All firms
 1263,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: No factors adversely affected the adoption of this technology,2018,1001,59.7,376796,82.2,,,33069,64.0,All firms,All firms,All firms
 1264,Total for all sectors,Total,Equally Hispanic/non-Hispanic,Total,Total,Firms with no employees,Specialized Equipment: Total Reporting,2018,1677,100.0,458205,100.0,,,51640,100.0,All firms,All firms,All firms
@@ -1522,10 +1522,10 @@
 1520,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: Required data not reliable,2018,9953,0.2,57027752,0.5,192416,0.4,8802283,0.4,All firms,All firms,All firms
 1521,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: Lacked access to required human capital and talent,2018,26592,0.6,126882214,1.1,474492,0.9,23406229,1.0,All firms,All firms,All firms
 1522,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: Laws and regulations,2018,22461,0.5,55593351,0.5,278604,0.5,15123165,0.7,All firms,All firms,All firms
-1523,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,80237,2.0,358557906,3.0,1487004,2.9,75525027,3.3,All firms,All firms,All firms
-1524,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: Lacked access to capital,2018,35063,0.9,82294574,0.7,458111,0.9,19778057,0.9,All firms,All firms,All firms
-1525,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: Technology not applicable to this business,2018,1586018,38.6,3537704228,29.9,16005936,31.3,660005328,28.7,All firms,All firms,All firms
-1526,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: No factors adversely affected the adoption of this technology,2018,2183844,53.1,7274934441,61.5,30534477,59.6,1424513805,62.0,All firms,All firms,All firms
+1523,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: No factors adversely affected the adoption of this technology,2018,2183844,53.1,7274934441,61.5,30534477,59.6,1424513805,62.0,All firms,All firms,All firms
+1524,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,80237,2.0,358557906,3.0,1487004,2.9,75525027,3.3,All firms,All firms,All firms
+1525,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: Lacked access to capital,2018,35063,0.9,82294574,0.7,458111,0.9,19778057,0.9,All firms,All firms,All firms
+1526,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: Technology not applicable to this business,2018,1586018,38.6,3537704228,29.9,16005936,31.3,660005328,28.7,All firms,All firms,All firms
 1527,Total for all sectors,Total,Total,White,Total,All firms,Cloud-Based: Total Reporting,2018,4113971,100.0,11829605267,100.0,51212698,100.0,2295854991,100.0,All firms,All firms,All firms
 1528,Total for all sectors,Total,Total,White,Total,All firms,Specialized Software: Technology was too expensive,2018,225829,5.5,544102796,4.6,2720546,5.3,105636990,4.6,All firms,All firms,All firms
 1529,Total for all sectors,Total,Total,White,Total,All firms,Specialized Software: Technology was not mature,2018,19060,0.5,115871183,1.0,506565,1.0,20560492,0.9,All firms,All firms,All firms
@@ -1541,10 +1541,10 @@
 1539,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Technology was too expensive,2018,55657,5.6,470946846,4.6,2289968,5.2,90255008,4.6,All firms,All firms,All firms
 1540,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Technology was not mature,2018,6182,0.6,104550380,1.0,461412,1.1,17721600,0.9,All firms,All firms,All firms
 1541,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Lacked access to required data,2018,4582,0.5,52439890,0.5,327004,0.7,10469887,0.5,All firms,All firms,All firms
-1542,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Required data not reliable,2018,2384,0.2,54525606,0.5,168220,0.4,7491648,0.4,All firms,All firms,All firms
-1543,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Lacked access to required human capital and talent,2018,8871,0.9,122593676,1.2,468750,1.1,23826468,1.2,All firms,All firms,All firms
-1544,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Laws and regulations,2018,5621,0.6,44748375,0.4,263939,0.6,12723842,0.7,All firms,All firms,All firms
-1545,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,8461,0.9,106990097,1.1,576978,1.3,24836821,1.3,All firms,All firms,All firms
+1542,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,8461,0.9,106990097,1.1,576978,1.3,24836821,1.3,All firms,All firms,All firms
+1543,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Required data not reliable,2018,2384,0.2,54525606,0.5,168220,0.4,7491648,0.4,All firms,All firms,All firms
+1544,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Lacked access to required human capital and talent,2018,8871,0.9,122593676,1.2,468750,1.1,23826468,1.2,All firms,All firms,All firms
+1545,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Laws and regulations,2018,5621,0.6,44748375,0.4,263939,0.6,12723842,0.7,All firms,All firms,All firms
 1546,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Lacked access to capital,2018,11621,1.2,96725119,1.0,520864,1.2,22649778,1.2,All firms,All firms,All firms
 1547,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: Technology not applicable to this business,2018,329969,33.5,2943524439,29.0,13016133,29.7,542562269,27.8,All firms,All firms,All firms
 1548,Total for all sectors,Total,Non-Hispanic,Total,Total,Firms with 10 employees or more,Specialized Software: No factors adversely affected the adoption of this technology,2018,574873,58.3,6466324094,63.7,27423770,62.5,1259378428,64.6,All firms,All firms,All firms
@@ -1666,10 +1666,10 @@
 1664,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Software: Lacked access to required human capital and talent,2018,1104,1.2,544621,0.5,4784,0.5,159275,0.5,All firms,All firms,All firms
 1665,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Software: Laws and regulations,2018,674,0.7,535312,0.5,6393,0.7,163258,0.6,All firms,All firms,All firms
 1666,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,1081,1.2,777446,0.8,8237,0.9,275842,0.9,All firms,All firms,All firms
-1667,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Software: Lacked access to capital,2018,2044,2.2,1094729,1.1,10753,1.2,348462,1.2,All firms,All firms,All firms
-1668,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Software: Technology not applicable to this business,2018,33365,36.5,31300179,31.6,320953,34.4,9979708,34.0,All firms,All firms,All firms
-1669,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Software: No factors adversely affected the adoption of this technology,2018,47232,51.6,59623081,60.1,533230,57.1,16991330,57.9,All firms,All firms,All firms
-1670,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Software: Total Reporting,2018,91484,100.0,99140170,100.0,934309,100.0,29366548,100.0,All firms,All firms,All firms
+1667,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Software: Total Reporting,2018,91484,100.0,99140170,100.0,934309,100.0,29366548,100.0,All firms,All firms,All firms
+1668,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Software: Lacked access to capital,2018,2044,2.2,1094729,1.1,10753,1.2,348462,1.2,All firms,All firms,All firms
+1669,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Software: Technology not applicable to this business,2018,33365,36.5,31300179,31.6,320953,34.4,9979708,34.0,All firms,All firms,All firms
+1670,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Software: No factors adversely affected the adoption of this technology,2018,47232,51.6,59623081,60.1,533230,57.1,16991330,57.9,All firms,All firms,All firms
 1671,Total for all sectors,Total,Total,Black or African American,Total,All firms,Robotics: Technology was too expensive,2018,5937,6.5,4648309,4.7,49118,5.3,1215071,4.1,All firms,All firms,All firms
 1672,Total for all sectors,Total,Total,Black or African American,Total,All firms,Robotics: Technology was not mature,2018,437,0.5,601111,0.6,3789,0.4,145991,0.5,All firms,All firms,All firms
 1673,Total for all sectors,Total,Total,Black or African American,Total,All firms,Robotics: Lacked access to required data,2018,,,,,,,,,All firms,All firms,All firms
@@ -1698,10 +1698,10 @@
 1696,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Lacked access to required data,2018,,,,,,,,,All firms,All firms,All firms
 1697,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Required data not reliable,2018,328,0.4,95158,0.1,772,0.1,19473,0.1,All firms,All firms,All firms
 1698,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Lacked access to required human capital and talent,2018,625,0.7,441992,0.4,2732,0.3,107552,0.4,All firms,All firms,All firms
-1699,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Laws and regulations,2018,541,0.6,447663,0.5,3810,0.4,128712,0.4,All firms,All firms,All firms
-1700,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,793,0.9,530182,0.5,4426,0.5,140540,0.5,All firms,All firms,All firms
-1701,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Lacked access to capital,2018,2058,2.2,1161913,1.2,13330,1.4,344603,1.2,All firms,All firms,All firms
-1702,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Technology not applicable to this business,2018,38749,42.2,40000541,40.3,384639,41.1,12396883,42.2,All firms,All firms,All firms
+1699,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Technology not applicable to this business,2018,38749,42.2,40000541,40.3,384639,41.1,12396883,42.2,All firms,All firms,All firms
+1700,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Laws and regulations,2018,541,0.6,447663,0.5,3810,0.4,128712,0.4,All firms,All firms,All firms
+1701,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,793,0.9,530182,0.5,4426,0.5,140540,0.5,All firms,All firms,All firms
+1702,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Lacked access to capital,2018,2058,2.2,1161913,1.2,13330,1.4,344603,1.2,All firms,All firms,All firms
 1703,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: No factors adversely affected the adoption of this technology,2018,43567,47.5,51972071,52.4,480174,51.3,15027538,51.1,All firms,All firms,All firms
 1704,Total for all sectors,Total,Total,Black or African American,Total,All firms,Specialized Equipment: Total Reporting,2018,91793,100.0,99202050,100.0,935750,100.0,29394313,100.0,All firms,All firms,All firms
 1705,Total for all sectors,Total,Total,White,Total,Firms with 1 to 9 employees,Artificial Intelligence: Technology was too expensive,2018,143565,5.0,85081282,4.7,477908,5.2,17183168,4.4,All firms,All firms,All firms
@@ -1786,10 +1786,10 @@
 1784,Total for all sectors,Total,Total,White,Total,Firms with 1 to 9 employees,Specialized Equipment: Total Reporting,2018,2900103,100.0,1805592214,100.0,9192204,100.0,391264946,100.0,All firms,All firms,All firms
 1785,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: Required data not reliable,2018,605,0.2,99748,0.1,,,20388,0.1,All firms,All firms,All firms
 1786,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: Lacked access to required human capital and talent,2018,1674,0.6,302319,0.3,,,54627,0.3,All firms,All firms,All firms
-1787,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: Laws and regulations,2018,1138,0.4,271633,0.2,,,38281,0.2,All firms,All firms,All firms
-1788,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
-1789,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: Lacked access to capital,2018,,,,,,,,,All firms,All firms,All firms
-1790,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: Technology not applicable to this business,2018,115260,40.1,42273005,37.7,,,6769047,39.8,All firms,All firms,All firms
+1787,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: Technology not applicable to this business,2018,115260,40.1,42273005,37.7,,,6769047,39.8,All firms,All firms,All firms
+1788,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: Laws and regulations,2018,1138,0.4,271633,0.2,,,38281,0.2,All firms,All firms,All firms
+1789,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
+1790,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: Lacked access to capital,2018,,,,,,,,,All firms,All firms,All firms
 1791,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: No factors adversely affected the adoption of this technology,2018,152420,53.0,63225799,56.4,,,9504224,55.9,All firms,All firms,All firms
 1792,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Software: Total Reporting,2018,287508,100.0,112029045,100.0,,,17003641,100.0,All firms,All firms,All firms
 1793,Total for all sectors,Total,Total,White,Total,Firms with no employees,Robotics: Technology was too expensive,2018,13087,4.6,4429096,4.0,,,526637,3.1,All firms,All firms,All firms
@@ -1807,10 +1807,10 @@
 1805,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Technology was not mature,2018,,,,,,,,,All firms,All firms,All firms
 1806,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Lacked access to required data,2018,646,0.2,347706,0.3,,,40777,0.2,All firms,All firms,All firms
 1807,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
-1808,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Lacked access to required human capital and talent,2018,1174,0.4,174005,0.2,,,34269,0.2,All firms,All firms,All firms
-1809,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Laws and regulations,2018,1036,0.4,214704,0.2,,,30126,0.2,All firms,All firms,All firms
-1810,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,826,0.3,130213,0.1,,,16343,0.1,All firms,All firms,All firms
-1811,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Lacked access to capital,2018,3164,1.1,1287159,1.1,,,71665,0.4,All firms,All firms,All firms
+1808,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Lacked access to capital,2018,3164,1.1,1287159,1.1,,,71665,0.4,All firms,All firms,All firms
+1809,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Lacked access to required human capital and talent,2018,1174,0.4,174005,0.2,,,34269,0.2,All firms,All firms,All firms
+1810,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Laws and regulations,2018,1036,0.4,214704,0.2,,,30126,0.2,All firms,All firms,All firms
+1811,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,826,0.3,130213,0.1,,,16343,0.1,All firms,All firms,All firms
 1812,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Technology not applicable to this business,2018,130994,45.5,49317378,44.0,,,7685482,45.2,All firms,All firms,All firms
 1813,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: No factors adversely affected the adoption of this technology,2018,138194,48.0,55712321,49.7,,,8589066,50.5,All firms,All firms,All firms
 1814,Total for all sectors,Total,Total,White,Total,Firms with no employees,Specialized Equipment: Total Reporting,2018,287919,100.0,112155984,100.0,,,17008074,100.0,All firms,All firms,All firms
@@ -2134,10 +2134,10 @@
 2132,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with no employees,Cloud-Based: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
 2133,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with no employees,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
 2134,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with no employees,Cloud-Based: Lacked access to capital,2018,,,,,,,,,All firms,All firms,All firms
-2135,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with no employees,Cloud-Based: Technology not applicable to this business,2018,,,,,,,,,All firms,All firms,All firms
-2136,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with no employees,Cloud-Based: No factors adversely affected the adoption of this technology,2018,858,49.2,332223,50.7,,,42601,66.9,All firms,All firms,All firms
-2137,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with no employees,Cloud-Based: Total Reporting,2018,1743,100.0,655386,100.0,,,63636,100.0,All firms,All firms,All firms
-2138,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with no employees,Specialized Software: Technology was too expensive,2018,,,,,,,,,All firms,All firms,All firms
+2135,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with no employees,Specialized Software: Technology was too expensive,2018,,,,,,,,,All firms,All firms,All firms
+2136,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with no employees,Cloud-Based: Technology not applicable to this business,2018,,,,,,,,,All firms,All firms,All firms
+2137,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with no employees,Cloud-Based: No factors adversely affected the adoption of this technology,2018,858,49.2,332223,50.7,,,42601,66.9,All firms,All firms,All firms
+2138,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with no employees,Cloud-Based: Total Reporting,2018,1743,100.0,655386,100.0,,,63636,100.0,All firms,All firms,All firms
 2139,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with 10 employees or more,Specialized Software: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
 2140,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with 10 employees or more,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
 2141,Total for all sectors,Total,Total,American Indian and Alaska Native,Total,Firms with 10 employees or more,Specialized Software: Lacked access to capital,2018,6,0.2,27273,0.1,160,0.1,5425,0.1,All firms,All firms,All firms
@@ -2198,8 +2198,8 @@
 2196,Total for all sectors,Total,Total,Asian,Total,All firms,Specialized Equipment: Technology not applicable to this business,2018,200700,42.9,255678356,36.9,1536571,36.2,53582729,36.9,All firms,All firms,All firms
 2197,Total for all sectors,Total,Total,Asian,Total,All firms,Specialized Equipment: No factors adversely affected the adoption of this technology,2018,206886,44.2,337788759,48.7,2125622,50.0,72816722,50.1,All firms,All firms,All firms
 2198,Total for all sectors,Total,Total,Asian,Total,All firms,Specialized Equipment: Total Reporting,2018,468267,100.0,693326158,100.0,4249639,100.0,145405679,100.0,All firms,All firms,All firms
-2199,Total for all sectors,Total,Total,Asian,Total,Firms with no employees,Artificial Intelligence: Technology was too expensive,2018,2110,9.3,897245,9.0,,,102646,8.5,All firms,All firms,All firms
-2200,Total for all sectors,Total,Total,Asian,Total,Firms with no employees,Artificial Intelligence: Technology was not mature,2018,597,2.6,247316,2.5,,,24356,2.0,All firms,All firms,All firms
+2199,Total for all sectors,Total,Total,Asian,Total,Firms with no employees,Artificial Intelligence: Technology was not mature,2018,597,2.6,247316,2.5,,,24356,2.0,All firms,All firms,All firms
+2200,Total for all sectors,Total,Total,Asian,Total,Firms with no employees,Artificial Intelligence: Technology was too expensive,2018,2110,9.3,897245,9.0,,,102646,8.5,All firms,All firms,All firms
 2201,Total for all sectors,Total,Total,Asian,Total,Firms with no employees,Artificial Intelligence: Lacked access to required data,2018,180,0.8,18628,0.2,,,6293,0.5,All firms,All firms,All firms
 2202,Total for all sectors,Total,Total,Asian,Total,Firms with no employees,Artificial Intelligence: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
 2203,Total for all sectors,Total,Total,Asian,Total,Firms with no employees,Artificial Intelligence: Lacked access to required human capital and talent,2018,,,,,,,,,All firms,All firms,All firms
@@ -2319,8 +2319,8 @@
 2317,Total for all sectors,Total,Total,Asian,Total,Firms with 1 to 9 employees,Robotics: Technology not applicable to this business,2018,171230,48.1,115743662,47.7,580433,48.2,19455691,48.9,All firms,All firms,All firms
 2318,Total for all sectors,Total,Total,Asian,Total,Firms with 1 to 9 employees,Robotics: No factors adversely affected the adoption of this technology,2018,143224,40.2,98180173,40.5,481801,40.0,16105391,40.5,All firms,All firms,All firms
 2319,Total for all sectors,Total,Total,Asian,Total,Firms with 1 to 9 employees,Robotics: Total Reporting,2018,356192,100.0,242410862,100.0,1204525,100.0,39749928,100.0,All firms,All firms,All firms
-2320,Total for all sectors,Total,Total,Asian,Total,Firms with 1 to 9 employees,Specialized Equipment: Technology was too expensive,2018,34696,9.7,24017365,9.9,123524,10.2,3620997,9.1,All firms,All firms,All firms
-2321,Total for all sectors,Total,Total,Asian,Total,Firms with 1 to 9 employees,Specialized Equipment: Technology was not mature,2018,3887,1.1,3436152,1.4,14895,1.2,497527,1.2,All firms,All firms,All firms
+2320,Total for all sectors,Total,Total,Asian,Total,Firms with 1 to 9 employees,Specialized Equipment: Technology was not mature,2018,3887,1.1,3436152,1.4,14895,1.2,497527,1.2,All firms,All firms,All firms
+2321,Total for all sectors,Total,Total,Asian,Total,Firms with 1 to 9 employees,Specialized Equipment: Technology was too expensive,2018,34696,9.7,24017365,9.9,123524,10.2,3620997,9.1,All firms,All firms,All firms
 2322,Total for all sectors,Total,Total,Asian,Total,Firms with 1 to 9 employees,Specialized Equipment: Lacked access to required data,2018,2712,0.8,2716535,1.1,9844,0.8,353560,0.9,All firms,All firms,All firms
 2323,Total for all sectors,Total,Total,Asian,Total,Firms with 1 to 9 employees,Specialized Equipment: Required data not reliable,2018,1663,0.5,1996428,0.8,5836,0.5,266682,0.7,All firms,All firms,All firms
 2324,Total for all sectors,Total,Total,Asian,Total,Firms with 1 to 9 employees,Specialized Equipment: Lacked access to required human capital and talent,2018,3458,1.0,3350442,1.4,12117,1.0,527932,1.3,All firms,All firms,All firms
@@ -2503,10 +2503,10 @@
 2501,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Technology was too expensive,2018,,,,,,,,,All firms,All firms,All firms
 2502,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Technology was not mature,2018,,,,,,,,,All firms,All firms,All firms
 2503,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Lacked access to required data,2018,,,,,,,,,All firms,All firms,All firms
-2504,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
-2505,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Lacked access to required human capital and talent,2018,,,,,,,,,All firms,All firms,All firms
-2506,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
-2507,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
+2504,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
+2505,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
+2506,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Lacked access to required human capital and talent,2018,,,,,,,,,All firms,All firms,All firms
+2507,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
 2508,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Lacked access to capital,2018,49,0.9,131036,1.1,855,1.5,27698,1.2,All firms,All firms,All firms
 2509,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: Technology not applicable to this business,2018,2106,38.8,3616144,29.6,18027,31.0,675370,29.5,All firms,All firms,All firms
 2510,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,All firms,Specialized Equipment: No factors adversely affected the adoption of this technology,2018,2783,51.2,5986748,49.0,35149,60.5,1284296,56.2,All firms,All firms,All firms
@@ -2661,10 +2661,10 @@
 2659,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Artificial Intelligence: Technology not applicable to this business,2018,514,42.5,3977495,45.3,14873,33.0,628421,35.6,All firms,All firms,All firms
 2660,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Artificial Intelligence: No factors adversely affected the adoption of this technology,2018,519,42.9,3712769,42.3,27131,60.1,902302,51.2,All firms,All firms,All firms
 2661,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Artificial Intelligence: Total Reporting,2018,1209,100.0,8772083,100.0,45128,100.0,1763887,100.0,All firms,All firms,All firms
-2662,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Cloud-Based: Technology was too expensive,2018,,,,,,,,,All firms,All firms,All firms
-2663,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Cloud-Based: Technology was not mature,2018,,,,,,,,,All firms,All firms,All firms
-2664,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Cloud-Based: Lacked access to required data,2018,,,,,,,,,All firms,All firms,All firms
-2665,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Cloud-Based: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
+2662,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Cloud-Based: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
+2663,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Cloud-Based: Technology was too expensive,2018,,,,,,,,,All firms,All firms,All firms
+2664,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Cloud-Based: Technology was not mature,2018,,,,,,,,,All firms,All firms,All firms
+2665,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Cloud-Based: Lacked access to required data,2018,,,,,,,,,All firms,All firms,All firms
 2666,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Cloud-Based: Lacked access to required human capital and talent,2018,6,0.5,42037,0.5,320,0.7,16710,0.9,All firms,All firms,All firms
 2667,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Cloud-Based: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
 2668,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 10 employees or more,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,44,3.6,51815,0.6,786,1.7,24824,1.4,All firms,All firms,All firms
@@ -2678,10 +2678,10 @@
 2676,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Technology was not mature,2018,,,,,,,,,All firms,All firms,All firms
 2677,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Lacked access to required data,2018,,,,,,,,,All firms,All firms,All firms
 2678,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
-2679,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Lacked access to required human capital and talent,2018,52,1.3,4450,0.1,116,0.9,1602,0.3,All firms,All firms,All firms
-2680,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
-2681,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
-2682,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Lacked access to capital,2018,,,,,,,,,All firms,All firms,All firms
+2679,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Lacked access to capital,2018,,,,,,,,,All firms,All firms,All firms
+2680,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Lacked access to required human capital and talent,2018,52,1.3,4450,0.1,116,0.9,1602,0.3,All firms,All firms,All firms
+2681,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
+2682,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
 2683,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Technology not applicable to this business,2018,1608,40.4,1029087,30.6,5164,39.9,159843,32.0,All firms,All firms,All firms
 2684,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: No factors adversely affected the adoption of this technology,2018,2051,51.5,1113067,33.1,6826,52.7,274828,55.0,All firms,All firms,All firms
 2685,Total for all sectors,Total,Total,Native Hawaiian and Other Pacific Islander,Total,Firms with 1 to 9 employees,Cloud-Based: Total Reporting,2018,3981,100.0,3359696,100.0,12949,100.0,499822,100.0,All firms,All firms,All firms
@@ -2805,13 +2805,13 @@
 2803,Total for all sectors,Total,Total,Minority,Total,Firms with 1 to 9 employees,Specialized Equipment: No factors adversely affected the adoption of this technology,2018,271846,43.0,172003943,44.3,895650,43.5,31786100,45.5,All firms,All firms,All firms
 2804,Total for all sectors,Total,Total,Minority,Total,Firms with 1 to 9 employees,Specialized Equipment: Total Reporting,2018,631653,100.0,388504208,100.0,2058635,100.0,69877614,100.0,All firms,All firms,All firms
 2805,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Technology was too expensive,2018,13230,8.3,63028674,8.0,362937,6.4,12988733,6.6,All firms,All firms,All firms
-2806,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Technology was not mature,2018,2528,1.6,17232951,2.2,69904,1.2,3915558,2.0,All firms,All firms,All firms
-2807,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Lacked access to required data,2018,1169,0.7,8392120,1.1,43983,0.8,2791545,1.4,All firms,All firms,All firms
-2808,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Required data not reliable,2018,742,0.5,6909446,0.9,38364,0.7,1862262,1.0,All firms,All firms,All firms
-2809,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Lacked access to required human capital and talent,2018,1786,1.1,17689681,2.2,84463,1.5,5249024,2.7,All firms,All firms,All firms
-2810,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Laws and regulations,2018,762,0.5,4410212,0.6,34607,0.6,1082209,0.6,All firms,All firms,All firms
-2811,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Concerns regarding safety and security (physical security and/or cyber security),2018,1341,0.8,7082827,0.9,45804,0.8,1846534,0.9,All firms,All firms,All firms
-2812,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Lacked access to capital,2018,1505,0.9,4554113,0.6,36833,0.6,1615759,0.8,All firms,All firms,All firms
+2806,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Lacked access to required human capital and talent,2018,1786,1.1,17689681,2.2,84463,1.5,5249024,2.7,All firms,All firms,All firms
+2807,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Technology was not mature,2018,2528,1.6,17232951,2.2,69904,1.2,3915558,2.0,All firms,All firms,All firms
+2808,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Lacked access to required data,2018,1169,0.7,8392120,1.1,43983,0.8,2791545,1.4,All firms,All firms,All firms
+2809,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Required data not reliable,2018,742,0.5,6909446,0.9,38364,0.7,1862262,1.0,All firms,All firms,All firms
+2810,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Lacked access to capital,2018,1505,0.9,4554113,0.6,36833,0.6,1615759,0.8,All firms,All firms,All firms
+2811,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Laws and regulations,2018,762,0.5,4410212,0.6,34607,0.6,1082209,0.6,All firms,All firms,All firms
+2812,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Concerns regarding safety and security (physical security and/or cyber security),2018,1341,0.8,7082827,0.9,45804,0.8,1846534,0.9,All firms,All firms,All firms
 2813,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Technology not applicable to this business,2018,73020,45.7,345939199,43.7,2552702,44.7,85995534,44.0,All firms,All firms,All firms
 2814,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: No factors adversely affected the adoption of this technology,2018,69693,43.6,354093125,44.7,2641090,46.3,88973961,45.5,All firms,All firms,All firms
 2815,Total for all sectors,Total,Total,Minority,Total,Firms with 10 employees or more,Artificial Intelligence: Total Reporting,2018,159955,100.0,792105797,100.0,5704726,100.0,195544754,100.0,All firms,All firms,All firms
@@ -2934,10 +2934,10 @@
 2932,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with no employees,Specialized Equipment: No factors adversely affected the adoption of this technology,2018,2033,55.8,821664,65.9,,,70961,60.7,All firms,All firms,All firms
 2933,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with no employees,Specialized Equipment: Total Reporting,2018,3644,100.0,1247005,100.0,,,116987,100.0,All firms,All firms,All firms
 2934,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Cloud-Based: Technology not applicable to this business,2018,27190,38.3,33376471,28.4,231500,30.8,8279314,26.8,All firms,All firms,All firms
-2935,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Cloud-Based: No factors adversely affected the adoption of this technology,2018,36925,52.1,70914220,60.4,438288,58.2,19105024,61.9,All firms,All firms,All firms
-2936,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Cloud-Based: Total Reporting,2018,70906,100.0,117366815,100.0,752662,100.0,30874907,100.0,All firms,All firms,All firms
-2937,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Specialized Software: Technology was too expensive,2018,4628,6.5,5238478,4.5,36763,4.9,1082593,3.5,All firms,All firms,All firms
-2938,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Specialized Software: Technology was not mature,2018,,,,,,,,,All firms,All firms,All firms
+2935,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Specialized Software: Technology was not mature,2018,,,,,,,,,All firms,All firms,All firms
+2936,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Cloud-Based: No factors adversely affected the adoption of this technology,2018,36925,52.1,70914220,60.4,438288,58.2,19105024,61.9,All firms,All firms,All firms
+2937,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Cloud-Based: Total Reporting,2018,70906,100.0,117366815,100.0,752662,100.0,30874907,100.0,All firms,All firms,All firms
+2938,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Specialized Software: Technology was too expensive,2018,4628,6.5,5238478,4.5,36763,4.9,1082593,3.5,All firms,All firms,All firms
 2939,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Specialized Software: Lacked access to required data,2018,132,0.2,136625,0.1,1603,0.2,35346,0.1,All firms,All firms,All firms
 2940,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Specialized Software: Required data not reliable,2018,78,0.1,79446,0.1,1440,0.2,34934,0.1,All firms,All firms,All firms
 2941,Total for all sectors,Total,Total,Equally minority/nonminority,Total,All firms,Specialized Software: Lacked access to required human capital and talent,2018,624,0.9,556582,0.5,6018,0.8,178887,0.6,All firms,All firms,All firms
@@ -3043,9 +3043,9 @@
 3041,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Cloud-Based: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
 3042,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,478,2.7,5404995,6.2,26836,4.6,1539574,6.4,All firms,All firms,All firms
 3043,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Cloud-Based: Lacked access to capital,2018,,,,,,,,,All firms,All firms,All firms
-3044,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Cloud-Based: Technology not applicable to this business,2018,6173,35.3,21715552,25.1,171113,29.3,5771792,24.1,All firms,All firms,All firms
-3045,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Cloud-Based: No factors adversely affected the adoption of this technology,2018,9498,54.2,54413447,62.9,346030,59.2,15312649,63.8,All firms,All firms,All firms
-3046,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Cloud-Based: Total Reporting,2018,17511,100.0,86524600,100.0,584935,100.0,23994017,100.0,All firms,All firms,All firms
+3044,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Cloud-Based: Total Reporting,2018,17511,100.0,86524600,100.0,584935,100.0,23994017,100.0,All firms,All firms,All firms
+3045,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Cloud-Based: Technology not applicable to this business,2018,6173,35.3,21715552,25.1,171113,29.3,5771792,24.1,All firms,All firms,All firms
+3046,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Cloud-Based: No factors adversely affected the adoption of this technology,2018,9498,54.2,54413447,62.9,346030,59.2,15312649,63.8,All firms,All firms,All firms
 3047,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Specialized Software: Technology was too expensive,2018,1043,6.0,3305156,3.8,26420,4.5,718334,3.0,All firms,All firms,All firms
 3048,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Specialized Software: Technology was not mature,2018,,,,,,,,,All firms,All firms,All firms
 3049,Total for all sectors,Total,Total,Equally minority/nonminority,Total,Firms with 10 employees or more,Specialized Software: Lacked access to required data,2018,64,0.4,112978,0.1,1510,0.3,32380,0.1,All firms,All firms,All firms
@@ -3364,10 +3364,10 @@
 3362,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Lacked access to required data,2018,,,,,,,,,All firms,All firms,All firms
 3363,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
 3364,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Lacked access to required human capital and talent,2018,,,,,,,,,All firms,All firms,All firms
-3365,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
-3366,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
-3367,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Lacked access to capital,2018,289,1.4,30588,0.5,,,8066,1.0,All firms,All firms,All firms
-3368,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Technology not applicable to this business,2018,10852,52.4,3923624,64.8,,,414938,52.1,All firms,All firms,All firms
+3365,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Technology not applicable to this business,2018,10852,52.4,3923624,64.8,,,414938,52.1,All firms,All firms,All firms
+3366,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
+3367,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
+3368,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Lacked access to capital,2018,289,1.4,30588,0.5,,,8066,1.0,All firms,All firms,All firms
 3369,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: No factors adversely affected the adoption of this technology,2018,8716,42.1,1886087,31.2,,,345961,43.4,All firms,All firms,All firms
 3370,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Artificial Intelligence: Total Reporting,2018,20704,100.0,6051856,100.0,,,797113,100.0,All firms,All firms,All firms
 3371,Total for all sectors,Total,Total,Total,Veteran,Firms with no employees,Cloud-Based: Technology was too expensive,2018,694,3.4,177710,2.9,,,22213,2.8,All firms,All firms,All firms
@@ -3503,10 +3503,10 @@
 3501,Total for all sectors,Total,Total,Total,Veteran,Firms with 10 employees or more,Specialized Equipment: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
 3502,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Robotics: No factors adversely affected the adoption of this technology,2018,90786,42.7,50878663,44.2,279754,42.9,11984849,44.0,All firms,All firms,All firms
 3503,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Robotics: Total Reporting,2018,212735,100.0,115207620,100.0,652845,100.0,27230147,100.0,All firms,All firms,All firms
-3504,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Specialized Equipment: Technology was too expensive,2018,12168,5.7,5650113,4.9,38831,5.9,1306764,4.8,All firms,All firms,All firms
-3505,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Specialized Equipment: Technology was not mature,2018,819,0.4,385579,0.3,2477,0.4,106248,0.4,All firms,All firms,All firms
-3506,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Specialized Equipment: Lacked access to required data,2018,887,0.4,331731,0.3,2512,0.4,88919,0.3,All firms,All firms,All firms
-3507,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Specialized Equipment: Required data not reliable,2018,446,0.2,223126,0.2,1686,0.3,56328,0.2,All firms,All firms,All firms
+3504,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Specialized Equipment: Required data not reliable,2018,446,0.2,223126,0.2,1686,0.3,56328,0.2,All firms,All firms,All firms
+3505,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Specialized Equipment: Technology was too expensive,2018,12168,5.7,5650113,4.9,38831,5.9,1306764,4.8,All firms,All firms,All firms
+3506,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Specialized Equipment: Technology was not mature,2018,819,0.4,385579,0.3,2477,0.4,106248,0.4,All firms,All firms,All firms
+3507,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Specialized Equipment: Lacked access to required data,2018,887,0.4,331731,0.3,2512,0.4,88919,0.3,All firms,All firms,All firms
 3508,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Specialized Equipment: Lacked access to required human capital and talent,2018,1653,0.8,903173,0.8,5054,0.8,209516,0.8,All firms,All firms,All firms
 3509,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Specialized Equipment: Laws and regulations,2018,1141,0.5,606895,0.5,4092,0.6,183742,0.7,All firms,All firms,All firms
 3510,Total for all sectors,Total,Total,Total,Veteran,Firms with 1 to 9 employees,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,939,0.4,383007,0.3,2739,0.4,90766,0.3,All firms,All firms,All firms
@@ -3760,10 +3760,10 @@
 3758,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Cloud-Based: Lacked access to capital,2018,2625,0.9,1448550,1.2,,,126874,0.7,All firms,All firms,All firms
 3759,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Cloud-Based: Technology not applicable to this business,2018,114416,39.6,42197431,36.1,,,6637015,38.1,All firms,All firms,All firms
 3760,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Cloud-Based: No factors adversely affected the adoption of this technology,2018,150517,52.1,64100416,54.9,,,9622351,55.3,All firms,All firms,All firms
-3761,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Cloud-Based: Total Reporting,2018,288693,100.0,116782847,100.0,,,17406845,100.0,All firms,All firms,All firms
-3762,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Specialized Software: Technology was too expensive,2018,15924,5.5,5479056,4.7,,,577291,3.3,All firms,All firms,All firms
-3763,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Specialized Software: Technology was not mature,2018,1330,0.5,351171,0.3,,,60365,0.3,All firms,All firms,All firms
-3764,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Specialized Software: Lacked access to required data,2018,1047,0.4,343208,0.3,,,39748,0.2,All firms,All firms,All firms
+3761,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Specialized Software: Lacked access to required data,2018,1047,0.4,343208,0.3,,,39748,0.2,All firms,All firms,All firms
+3762,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Cloud-Based: Total Reporting,2018,288693,100.0,116782847,100.0,,,17406845,100.0,All firms,All firms,All firms
+3763,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Specialized Software: Technology was too expensive,2018,15924,5.5,5479056,4.7,,,577291,3.3,All firms,All firms,All firms
+3764,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Specialized Software: Technology was not mature,2018,1330,0.5,351171,0.3,,,60365,0.3,All firms,All firms,All firms
 3765,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Specialized Software: Required data not reliable,2018,750,0.3,228241,0.2,,,35982,0.2,All firms,All firms,All firms
 3766,Total for all sectors,Total,Total,Total,Nonveteran,Firms with no employees,Specialized Software: Lacked access to required human capital and talent,2018,1439,0.5,282176,0.2,,,46294,0.3,All firms,All firms,All firms
 3767,Total for all sectors,Total,Total,Total,Nonveteran,All firms,Artificial Intelligence: Technology was too expensive,2018,238461,5.6,645381458,5.6,2955102,5.7,119052015,5.2,All firms,All firms,All firms
@@ -4026,10 +4026,10 @@
 4024,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,All firms,Robotics: Lacked access to required data,2018,14540,0.3,53178796,0.4,333907,0.6,11038934,0.4,All firms,All firms,All firms
 4025,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,All firms,Robotics: Required data not reliable,2018,8961,0.2,36854724,0.3,278260,0.5,8066892,0.3,All firms,All firms,All firms
 4026,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Software: Lacked access to capital,2018,3711,1.2,1562428,1.2,,,172431,0.9,All firms,All firms,All firms
-4027,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Software: Technology not applicable to this business,2018,126347,39.8,47012924,37.5,,,7311337,39.5,All firms,All firms,All firms
-4028,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Software: No factors adversely affected the adoption of this technology,2018,166755,52.6,70384154,56.2,,,10244521,55.4,All firms,All firms,All firms
-4029,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Software: Total Reporting,2018,317222,100.0,125332461,100.0,,,18495911,100.0,All firms,All firms,All firms
-4030,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Robotics: Technology was too expensive,2018,15462,4.9,5154178,4.1,,,613254,3.3,All firms,All firms,All firms
+4027,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Robotics: Technology was too expensive,2018,15462,4.9,5154178,4.1,,,613254,3.3,All firms,All firms,All firms
+4028,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Software: Technology not applicable to this business,2018,126347,39.8,47012924,37.5,,,7311337,39.5,All firms,All firms,All firms
+4029,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Software: No factors adversely affected the adoption of this technology,2018,166755,52.6,70384154,56.2,,,10244521,55.4,All firms,All firms,All firms
+4030,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Software: Total Reporting,2018,317222,100.0,125332461,100.0,,,18495911,100.0,All firms,All firms,All firms
 4031,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Robotics: Technology was not mature,2018,,,,,,,,,All firms,All firms,All firms
 4032,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Robotics: Lacked access to required data,2018,937,0.3,460762,0.4,,,53343,0.3,All firms,All firms,All firms
 4033,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Robotics: Required data not reliable,2018,660,0.2,154399,0.1,,,19872,0.1,All firms,All firms,All firms
@@ -4062,10 +4062,10 @@
 4060,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Lacked access to required data,2018,810,0.3,402675,0.3,,,45245,0.2,All firms,All firms,All firms
 4061,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Required data not reliable,2018,749,0.2,271347,0.2,,,51571,0.3,All firms,All firms,All firms
 4062,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Lacked access to required human capital and talent,2018,1422,0.4,208055,0.2,,,39455,0.2,All firms,All firms,All firms
-4063,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Laws and regulations,2018,1142,0.4,228113,0.2,,,38840,0.2,All firms,All firms,All firms
-4064,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,959,0.3,149284,0.1,,,24879,0.1,All firms,All firms,All firms
-4065,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Lacked access to capital,2018,3841,1.2,1659529,1.3,,,150085,0.8,All firms,All firms,All firms
-4066,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Technology not applicable to this business,2018,143606,45.2,54868730,43.7,,,8295525,44.8,All firms,All firms,All firms
+4063,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Technology not applicable to this business,2018,143606,45.2,54868730,43.7,,,8295525,44.8,All firms,All firms,All firms
+4064,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Laws and regulations,2018,1142,0.4,228113,0.2,,,38840,0.2,All firms,All firms,All firms
+4065,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,959,0.3,149284,0.1,,,24879,0.1,All firms,All firms,All firms
+4066,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Lacked access to capital,2018,3841,1.2,1659529,1.3,,,150085,0.8,All firms,All firms,All firms
 4067,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: No factors adversely affected the adoption of this technology,2018,151839,47.8,62277536,49.6,,,9279355,50.2,All firms,All firms,All firms
 4068,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,Firms with no employees,Specialized Equipment: Total Reporting,2018,317648,100.0,125460579,100.0,,,18501926,100.0,All firms,All firms,All firms
 4069,Total for all sectors,Classifiable,Classifiable,Classifiable,Classifiable,All firms,Specialized Equipment: Total Reporting,2018,4706120,100.0,12690197918,100.0,56749091,100.0,2486911834,100.0,All firms,All firms,All firms
@@ -4453,10 +4453,10 @@
 4451,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Artificial Intelligence: Total Reporting,2018,21516,100.0,,,506283,100.0,8591483,100.0,All firms,All firms,All firms
 4452,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Technology was too expensive,2018,914,4.2,,,14686,2.9,447867,5.2,All firms,All firms,All firms
 4453,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Technology was not mature,2018,,,,,,,,,All firms,All firms,All firms
-4454,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Lacked access to required data,2018,,,,,,,,,All firms,All firms,All firms
-4455,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
-4456,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Lacked access to required human capital and talent,2018,,,,,,,,,All firms,All firms,All firms
-4457,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
+4454,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
+4455,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Lacked access to required data,2018,,,,,,,,,All firms,All firms,All firms
+4456,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
+4457,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Lacked access to required human capital and talent,2018,,,,,,,,,All firms,All firms,All firms
 4458,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Concerns regarding safety and security (physical security and/or cyber security),2018,185,0.9,,,101809,20.1,197395,2.3,All firms,All firms,All firms
 4459,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Lacked access to capital,2018,,,,,,,,,All firms,All firms,All firms
 4460,"Agriculture, forestry, fishing and hunting",Total,Total,Total,Total,All firms,Cloud-Based: Technology not applicable to this business,2018,10610,49.3,,,130803,25.8,3283670,38.2,All firms,All firms,All firms
@@ -4690,10 +4690,10 @@
 4688,Manufacturing,Total,Total,Total,Total,All firms,Robotics: Technology not applicable to this business,2018,88359,41.2,,,2901224,28.4,174418052,29.0,All firms,All firms,All firms
 4689,Manufacturing,Total,Total,Total,Total,All firms,Robotics: No factors adversely affected the adoption of this technology,2018,98029,45.7,,,5548763,54.3,321905837,53.5,All firms,All firms,All firms
 4690,Manufacturing,Total,Total,Total,Total,All firms,Robotics: Total Reporting,2018,214570,100.0,,,10224567,100.0,601678640,100.0,All firms,All firms,All firms
-4691,Manufacturing,Total,Total,Total,Total,All firms,Specialized Equipment: Technology was too expensive,2018,23121,10.7,,,1244721,12.1,81518270,13.5,All firms,All firms,All firms
-4692,Manufacturing,Total,Total,Total,Total,All firms,Specialized Equipment: Technology was not mature,2018,988,0.5,,,483270,4.7,38454346,6.4,All firms,All firms,All firms
-4693,Manufacturing,Total,Total,Total,Total,All firms,Specialized Equipment: Lacked access to required data,2018,877,0.4,,,380871,3.7,33734892,5.6,All firms,All firms,All firms
-4694,Manufacturing,Total,Total,Total,Total,All firms,Specialized Equipment: Required data not reliable,2018,429,0.2,,,262731,2.6,24696236,4.1,All firms,All firms,All firms
+4691,Manufacturing,Total,Total,Total,Total,All firms,Specialized Equipment: Required data not reliable,2018,429,0.2,,,262731,2.6,24696236,4.1,All firms,All firms,All firms
+4692,Manufacturing,Total,Total,Total,Total,All firms,Specialized Equipment: Technology was too expensive,2018,23121,10.7,,,1244721,12.1,81518270,13.5,All firms,All firms,All firms
+4693,Manufacturing,Total,Total,Total,Total,All firms,Specialized Equipment: Technology was not mature,2018,988,0.5,,,483270,4.7,38454346,6.4,All firms,All firms,All firms
+4694,Manufacturing,Total,Total,Total,Total,All firms,Specialized Equipment: Lacked access to required data,2018,877,0.4,,,380871,3.7,33734892,5.6,All firms,All firms,All firms
 4695,Manufacturing,Total,Total,Total,Total,All firms,Specialized Equipment: Lacked access to required human capital and talent,2018,3684,1.7,,,660052,6.4,50249197,8.3,All firms,All firms,All firms
 4696,Manufacturing,Total,Total,Total,Total,All firms,Specialized Equipment: Laws and regulations,2018,613,0.3,,,251530,2.5,23406942,3.9,All firms,All firms,All firms
 4697,Manufacturing,Total,Total,Total,Total,All firms,Specialized Equipment: Concerns regarding safety and security (physical security and/or cyber security),2018,937,0.4,,,463778,4.5,38183211,6.3,All firms,All firms,All firms
@@ -5361,10 +5361,10 @@
 5359,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Lacked access to required data,2018,1790,0.5,,,11476,0.5,349514,0.4,All firms,All firms,All firms
 5360,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Required data not reliable,2018,,,,,,,,,All firms,All firms,All firms
 5361,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Lacked access to required human capital and talent,2018,1619,0.5,,,18333,0.7,1433406,1.7,All firms,All firms,All firms
-5362,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
-5363,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
-5364,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Lacked access to capital,2018,3661,1.1,,,64867,2.7,3046383,3.6,All firms,All firms,All firms
-5365,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Technology not applicable to this business,2018,142512,41.8,,,864130,35.3,27554030,32.6,All firms,All firms,All firms
+5362,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Technology not applicable to this business,2018,142512,41.8,,,864130,35.3,27554030,32.6,All firms,All firms,All firms
+5363,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
+5364,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
+5365,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Lacked access to capital,2018,3661,1.1,,,64867,2.7,3046383,3.6,All firms,All firms,All firms
 5366,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: No factors adversely affected the adoption of this technology,2018,168551,49.4,,,1342833,54.9,48407972,57.3,All firms,All firms,All firms
 5367,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Software: Total Reporting,2018,341041,100.0,,,2446124,100.0,84542375,100.0,All firms,All firms,All firms
 5368,Other services (except public administration),Total,Total,Total,Total,All firms,Robotics: Technology was too expensive,2018,19995,5.9,,,165884,6.8,5899763,7.0,All firms,All firms,All firms
@@ -5421,8 +5421,8 @@
 5419,Accommodation and food services,Total,Total,Total,Total,All firms,Specialized Software: Technology not applicable to this business,2018,193928,43.3,,,4236857,36.5,82868415,36.3,All firms,All firms,All firms
 5420,Accommodation and food services,Total,Total,Total,Total,All firms,Specialized Software: No factors adversely affected the adoption of this technology,2018,212363,47.4,,,6591002,56.8,129736506,56.8,All firms,All firms,All firms
 5421,Other services (except public administration),Total,Total,Total,Total,All firms,Specialized Equipment: Total Reporting,2018,341660,100.0,,,2452247,100.0,84693869,100.0,All firms,All firms,All firms
-5422,Accommodation and food services,Total,Total,Total,Total,All firms,Specialized Software: Total Reporting,2018,448086,100.0,,,11609305,100.0,228601522,100.0,All firms,All firms,All firms
-5423,Accommodation and food services,Total,Total,Total,Total,All firms,Robotics: Technology was too expensive,2018,32802,7.3,,,751711,6.5,16945208,7.4,All firms,All firms,All firms
+5422,Accommodation and food services,Total,Total,Total,Total,All firms,Robotics: Technology was too expensive,2018,32802,7.3,,,751711,6.5,16945208,7.4,All firms,All firms,All firms
+5423,Accommodation and food services,Total,Total,Total,Total,All firms,Specialized Software: Total Reporting,2018,448086,100.0,,,11609305,100.0,228601522,100.0,All firms,All firms,All firms
 5424,Accommodation and food services,Total,Total,Total,Total,All firms,Robotics: Technology was not mature,2018,3699,0.8,,,316498,2.7,8283612,3.6,All firms,All firms,All firms
 5425,Accommodation and food services,Total,Total,Total,Total,All firms,Robotics: Lacked access to required data,2018,1825,0.4,,,63382,0.5,1430382,0.6,All firms,All firms,All firms
 5426,Accommodation and food services,Total,Total,Total,Total,All firms,Robotics: Required data not reliable,2018,1279,0.3,,,74277,0.6,1343348,0.6,All firms,All firms,All firms
@@ -5472,10 +5472,10 @@
 5470,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: Required data not reliable,2018,71,0.5,,,209,0.3,2229,0.4,All firms,All firms,All firms
 5471,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: Lacked access to required human capital and talent,2018,204,1.4,,,655,0.9,6973,1.2,All firms,All firms,All firms
 5472,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: Laws and regulations,2018,,,,,,,,,All firms,All firms,All firms
-5473,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
-5474,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: Lacked access to capital,2018,252,1.7,,,351,0.5,8180,1.5,All firms,All firms,All firms
-5475,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: Technology not applicable to this business,2018,5653,38.6,,,14490,19.6,197818,35.2,All firms,All firms,All firms
-5476,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: No factors adversely affected the adoption of this technology,2018,6941,47.4,,,45268,61.3,285658,50.9,All firms,All firms,All firms
+5473,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: No factors adversely affected the adoption of this technology,2018,6941,47.4,,,45268,61.3,285658,50.9,All firms,All firms,All firms
+5474,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: Concerns regarding safety and security (physical security and/or cyber security),2018,,,,,,,,,All firms,All firms,All firms
+5475,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: Lacked access to capital,2018,252,1.7,,,351,0.5,8180,1.5,All firms,All firms,All firms
+5476,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: Technology not applicable to this business,2018,5653,38.6,,,14490,19.6,197818,35.2,All firms,All firms,All firms
 5477,Industries not classified,Total,Total,Total,Total,All firms,Specialized Software: Total Reporting,2018,14656,100.0,,,73871,100.0,561523,100.0,All firms,All firms,All firms
 5478,Industries not classified,Total,Total,Total,Total,All firms,Robotics: Technology was too expensive,2018,2010,13.7,,,12513,17.3,74579,13.1,All firms,All firms,All firms
 5479,Industries not classified,Total,Total,Total,Total,All firms,Robotics: Technology was not mature,2018,153,1.0,,,362,0.5,8952,1.6,All firms,All firms,All firms

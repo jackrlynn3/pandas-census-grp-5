@@ -1,4 +1,4 @@
-,State,Industry,Sex,Ethnicity,Race,VetStatus,Year,EmployerFirmCt,EmployerFirmCtPerc,RevenueInThousands,RevenueInThousandsPerc,EmployeeCt,EmployeeCtPerc,AnnualPayrollInThousands,AnnualPayrollInThousandsPerc,YIBSZFI_LABEL,state
+,State,Industry,Sex,Ethnicity,Race,VetStatus,Year,EmployerFirmCt,EmployerFirmCtPerc,RevenueInThousands,RevenueInThousandsPerc,EmployeeCt,EmployeeCtPerc,AnnualPayrollInThousands,AnnualPayrollInThousandsPerc,YearsInBusiness,state
 0,Mississippi,Total for all sectors,Total,Total,Total,Total,2018,40856,,,,920447,,34137231,,All firms,28
 1,Missouri,Total for all sectors,Total,Total,Total,Total,2018,106753,,,,2464500,,116172182,,All firms,29
 2,Montana,Total for all sectors,Total,Total,Total,Total,2018,31661,,,,361600,,14060286,,All firms,30
