@@ -6405,10 +6405,10 @@
 6403,Health care and social assistance,Total,Total,Minority,Total,All firms,2018,146986,,,,1425964,,50518272,,All firms
 6404,Health care and social assistance,Total,Total,Minority,Total,Jointly owned and equally operated by spouses,2018,4309,6.1,,,46978,9.0,1529409,7.1,All firms
 6405,Health care and social assistance,Total,Total,Minority,Total,Jointly owned but primarily operated by male spouse,2018,1432,2.0,,,15559,3.0,511840,2.4,All firms
-6406,Health care and social assistance,Total,Total,Minority,Total,Jointly owned but primarily operated by female spouse,2018,1574,2.2,,,15951,3.1,398208,1.8,All firms
-6407,Health care and social assistance,Total,Total,Minority,Total,Not jointly owned by spouses,2018,62977,89.6,,,441786,84.9,19202842,88.7,All firms
-6408,Health care and social assistance,Total,Total,Minority,Total,Total reporting,2018,70292,100.0,,,520274,100.0,21642299,100.0,All firms
-6409,Health care and social assistance,Total,Total,Minority,Total,Item not reported,2018,6260,,,,63951,,1621213,,All firms
+6406,Health care and social assistance,Total,Total,Minority,Total,Item not reported,2018,6260,,,,63951,,1621213,,All firms
+6407,Health care and social assistance,Total,Total,Minority,Total,Jointly owned but primarily operated by female spouse,2018,1574,2.2,,,15951,3.1,398208,1.8,All firms
+6408,Health care and social assistance,Total,Total,Minority,Total,Not jointly owned by spouses,2018,62977,89.6,,,441786,84.9,19202842,88.7,All firms
+6409,Health care and social assistance,Total,Total,Minority,Total,Total reporting,2018,70292,100.0,,,520274,100.0,21642299,100.0,All firms
 6410,Health care and social assistance,Female,Total,Minority,Total,All firms,2018,59741,,,,564985,,16578281,,All firms
 6411,Health care and social assistance,Female,Total,Minority,Total,Jointly owned and equally operated by spouses,2018,659,2.3,,,5575,3.0,202101,3.3,All firms
 6412,Health care and social assistance,Female,Total,Minority,Total,Jointly owned but primarily operated by male spouse,2018,,,,,,,,,All firms
@@ -6442,9 +6442,9 @@
 6440,Health care and social assistance,Female,Total,Equally minority/nonminority,Total,Total reporting,2018,687,100.0,,,12642,100.0,351530,100.0,All firms
 6441,Health care and social assistance,Female,Total,Equally minority/nonminority,Total,Item not reported,2018,,,,,,,,,All firms
 6442,Health care and social assistance,Male,Total,Equally minority/nonminority,Total,All firms,2018,2747,,,,47327,,3206237,,All firms
-6443,Health care and social assistance,Male,Total,Equally minority/nonminority,Total,Jointly owned and equally operated by spouses,2018,,,,,,,,,All firms
-6444,Health care and social assistance,Male,Total,Equally minority/nonminority,Total,Jointly owned but primarily operated by male spouse,2018,,,,,,,,,All firms
-6445,Health care and social assistance,Male,Total,Equally minority/nonminority,Total,Not jointly owned by spouses,2018,1397,96.7,,,23970,94.2,1705183,97.5,All firms
+6443,Health care and social assistance,Male,Total,Equally minority/nonminority,Total,Not jointly owned by spouses,2018,1397,96.7,,,23970,94.2,1705183,97.5,All firms
+6444,Health care and social assistance,Male,Total,Equally minority/nonminority,Total,Jointly owned and equally operated by spouses,2018,,,,,,,,,All firms
+6445,Health care and social assistance,Male,Total,Equally minority/nonminority,Total,Jointly owned but primarily operated by male spouse,2018,,,,,,,,,All firms
 6446,Health care and social assistance,Male,Total,Equally minority/nonminority,Total,Total reporting,2018,1444,100.0,,,25450,100.0,1748650,100.0,All firms
 6447,Health care and social assistance,Male,Total,Equally minority/nonminority,Total,Item not reported,2018,,,,,,,,,All firms
 6448,Health care and social assistance,Equally male/female,Total,Equally minority/nonminority,Total,All firms,2018,6482,,,,71490,,2615970,,All firms
@@ -6471,10 +6471,10 @@
 6469,Health care and social assistance,Male,Total,Nonminority,Total,All firms,2018,249204,,,,3673808,,165086436,,All firms
 6470,Health care and social assistance,Male,Total,Nonminority,Total,Jointly owned and equally operated by spouses,2018,1176,0.9,,,9758,0.7,351721,0.5,All firms
 6471,Health care and social assistance,Male,Total,Nonminority,Total,Jointly owned but primarily operated by male spouse,2018,2519,1.9,,,20048,1.5,818621,1.2,All firms
-6472,Health care and social assistance,Male,Total,Nonminority,Total,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
-6473,Health care and social assistance,Male,Total,Nonminority,Total,Not jointly owned by spouses,2018,130319,97.2,,,1273235,97.7,64782394,98.2,All firms
-6474,Health care and social assistance,Male,Total,Nonminority,Total,Total reporting,2018,134077,100.0,,,1303850,100.0,65970814,100.0,All firms
-6475,Health care and social assistance,Male,Total,Nonminority,Total,Item not reported,2018,8098,,,,75629,,3219120,,All firms
+6472,Health care and social assistance,Male,Total,Nonminority,Total,Item not reported,2018,8098,,,,75629,,3219120,,All firms
+6473,Health care and social assistance,Male,Total,Nonminority,Total,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
+6474,Health care and social assistance,Male,Total,Nonminority,Total,Not jointly owned by spouses,2018,130319,97.2,,,1273235,97.7,64782394,98.2,All firms
+6475,Health care and social assistance,Male,Total,Nonminority,Total,Total reporting,2018,134077,100.0,,,1303850,100.0,65970814,100.0,All firms
 6476,Health care and social assistance,Equally male/female,Total,Nonminority,Total,All firms,2018,42031,,,,682577,,23261829,,All firms
 6477,Health care and social assistance,Equally male/female,Total,Nonminority,Total,Jointly owned and equally operated by spouses,2018,6301,42.2,,,74128,37.7,2542172,36.2,All firms
 6478,Health care and social assistance,Equally male/female,Total,Nonminority,Total,Jointly owned but primarily operated by male spouse,2018,3123,20.9,,,29389,15.0,1162167,16.5,All firms
@@ -6534,14 +6534,14 @@
 6532,Health care and social assistance,Total,Total,Nonminority,Veteran,All firms,2018,30374,,,,339259,,13413761,,All firms
 6533,Health care and social assistance,Total,Total,Nonminority,Veteran,Jointly owned and equally operated by spouses,2018,,,,,,,,,All firms
 6534,Health care and social assistance,Total,Total,Nonminority,Veteran,Jointly owned but primarily operated by male spouse,2018,419,2.5,,,1698,1.3,63292,1.1,All firms
-6535,Health care and social assistance,Total,Total,Nonminority,Veteran,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
-6536,Health care and social assistance,Total,Total,Nonminority,Veteran,Not jointly owned by spouses,2018,15843,96.2,,,128152,95.8,5639545,96.4,All firms
-6537,Health care and social assistance,Total,Total,Nonminority,Veteran,Total reporting,2018,16462,100.0,,,133794,100.0,5851347,100.0,All firms
-6538,Health care and social assistance,Total,Total,Nonminority,Veteran,Item not reported,2018,1588,,,,8524,,410323,,All firms
-6539,Health care and social assistance,Total,Total,Total,Equally veteran/nonveteran,All firms,2018,9438,,,,125864,,4580296,,All firms
-6540,Health care and social assistance,Total,Total,Total,Equally veteran/nonveteran,Jointly owned and equally operated by spouses,2018,1224,31.2,,,13616,31.2,426180,21.6,All firms
-6541,Health care and social assistance,Total,Total,Total,Equally veteran/nonveteran,Jointly owned but primarily operated by male spouse,2018,407,10.4,,,2221,5.1,87926,4.5,All firms
-6542,Health care and social assistance,Total,Total,Total,Equally veteran/nonveteran,Jointly owned but primarily operated by female spouse,2018,240,6.1,,,2848,6.5,56331,2.9,All firms
+6535,Health care and social assistance,Total,Total,Nonminority,Veteran,Item not reported,2018,1588,,,,8524,,410323,,All firms
+6536,Health care and social assistance,Total,Total,Nonminority,Veteran,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
+6537,Health care and social assistance,Total,Total,Nonminority,Veteran,Not jointly owned by spouses,2018,15843,96.2,,,128152,95.8,5639545,96.4,All firms
+6538,Health care and social assistance,Total,Total,Nonminority,Veteran,Total reporting,2018,16462,100.0,,,133794,100.0,5851347,100.0,All firms
+6539,Health care and social assistance,Total,Total,Total,Equally veteran/nonveteran,Jointly owned but primarily operated by female spouse,2018,240,6.1,,,2848,6.5,56331,2.9,All firms
+6540,Health care and social assistance,Total,Total,Total,Equally veteran/nonveteran,All firms,2018,9438,,,,125864,,4580296,,All firms
+6541,Health care and social assistance,Total,Total,Total,Equally veteran/nonveteran,Jointly owned and equally operated by spouses,2018,1224,31.2,,,13616,31.2,426180,21.6,All firms
+6542,Health care and social assistance,Total,Total,Total,Equally veteran/nonveteran,Jointly owned but primarily operated by male spouse,2018,407,10.4,,,2221,5.1,87926,4.5,All firms
 6543,Health care and social assistance,Total,Total,Total,Equally veteran/nonveteran,Not jointly owned by spouses,2018,2048,52.3,,,24992,57.2,1399710,71.0,All firms
 6544,Health care and social assistance,Total,Total,Total,Equally veteran/nonveteran,Total reporting,2018,3918,100.0,,,43676,100.0,1970148,100.0,All firms
 6545,Health care and social assistance,Total,Total,Total,Equally veteran/nonveteran,Item not reported,2018,1260,,,,9087,,271315,,All firms
@@ -6566,10 +6566,10 @@
 6564,Health care and social assistance,Total,Hispanic,Total,Equally veteran/nonveteran,Jointly owned but primarily operated by male spouse,2018,,,,,,,,,All firms
 6565,Health care and social assistance,Total,Hispanic,Total,Equally veteran/nonveteran,Not jointly owned by spouses,2018,,,,,,,,,All firms
 6566,Health care and social assistance,Total,Hispanic,Total,Equally veteran/nonveteran,Total reporting,2018,,,,,,,,,All firms
-6567,Health care and social assistance,Total,Equally Hispanic/non-Hispanic,Total,Equally veteran/nonveteran,All firms,2018,583,,,,8987,,202357,,All firms
-6568,Health care and social assistance,Total,Equally Hispanic/non-Hispanic,Total,Equally veteran/nonveteran,Jointly owned and equally operated by spouses,2018,,,,,,,,,All firms
-6569,Health care and social assistance,Total,Equally Hispanic/non-Hispanic,Total,Equally veteran/nonveteran,Not jointly owned by spouses,2018,,,,,,,,,All firms
-6570,Health care and social assistance,Total,Equally Hispanic/non-Hispanic,Total,Equally veteran/nonveteran,Total reporting,2018,180,100.0,,,510,100.0,21468,100.0,All firms
+6567,Health care and social assistance,Total,Equally Hispanic/non-Hispanic,Total,Equally veteran/nonveteran,Total reporting,2018,180,100.0,,,510,100.0,21468,100.0,All firms
+6568,Health care and social assistance,Total,Equally Hispanic/non-Hispanic,Total,Equally veteran/nonveteran,All firms,2018,583,,,,8987,,202357,,All firms
+6569,Health care and social assistance,Total,Equally Hispanic/non-Hispanic,Total,Equally veteran/nonveteran,Jointly owned and equally operated by spouses,2018,,,,,,,,,All firms
+6570,Health care and social assistance,Total,Equally Hispanic/non-Hispanic,Total,Equally veteran/nonveteran,Not jointly owned by spouses,2018,,,,,,,,,All firms
 6571,Health care and social assistance,Total,Equally Hispanic/non-Hispanic,Total,Equally veteran/nonveteran,Item not reported,2018,,,,,,,,,All firms
 6572,Health care and social assistance,Total,Non-Hispanic,Total,Equally veteran/nonveteran,All firms,2018,8589,,,,114806,,4261717,,All firms
 6573,Health care and social assistance,Total,Non-Hispanic,Total,Equally veteran/nonveteran,Jointly owned and equally operated by spouses,2018,1104,30.8,,,13106,31.4,413076,22.3,All firms
@@ -6663,10 +6663,10 @@
 6661,"Arts, entertainment, and recreation",Total,Total,Equally minority/nonminority,Nonveteran,Total reporting,2018,472,100.0,,,1871,100.0,38385,100.0,All firms
 6662,"Arts, entertainment, and recreation",Total,Total,Equally minority/nonminority,Nonveteran,Item not reported,2018,,,,,,,,,All firms
 6663,"Arts, entertainment, and recreation",Total,Total,Nonminority,Nonveteran,All firms,2018,86055,,,,901366,,35092777,,All firms
-6664,"Arts, entertainment, and recreation",Total,Total,Nonminority,Nonveteran,Jointly owned and equally operated by spouses,2018,3674,9.8,,,50498,16.9,1104992,11.3,All firms
-6665,"Arts, entertainment, and recreation",Total,Total,Nonminority,Nonveteran,Jointly owned but primarily operated by male spouse,2018,1678,4.5,,,10953,3.7,532981,5.4,All firms
-6666,"Arts, entertainment, and recreation",Total,Total,Nonminority,Nonveteran,Jointly owned but primarily operated by female spouse,2018,949,2.5,,,5504,1.8,86881,0.9,All firms
-6667,"Arts, entertainment, and recreation",Total,Total,Nonminority,Nonveteran,Not jointly owned by spouses,2018,31046,83.1,,,231192,77.5,8084937,82.4,All firms
+6664,"Arts, entertainment, and recreation",Total,Total,Nonminority,Nonveteran,Not jointly owned by spouses,2018,31046,83.1,,,231192,77.5,8084937,82.4,All firms
+6665,"Arts, entertainment, and recreation",Total,Total,Nonminority,Nonveteran,Jointly owned and equally operated by spouses,2018,3674,9.8,,,50498,16.9,1104992,11.3,All firms
+6666,"Arts, entertainment, and recreation",Total,Total,Nonminority,Nonveteran,Jointly owned but primarily operated by male spouse,2018,1678,4.5,,,10953,3.7,532981,5.4,All firms
+6667,"Arts, entertainment, and recreation",Total,Total,Nonminority,Nonveteran,Jointly owned but primarily operated by female spouse,2018,949,2.5,,,5504,1.8,86881,0.9,All firms
 6668,"Arts, entertainment, and recreation",Total,Total,Nonminority,Nonveteran,Total reporting,2018,37348,100.0,,,298146,100.0,9809790,100.0,All firms
 6669,"Arts, entertainment, and recreation",Total,Total,Nonminority,Nonveteran,Item not reported,2018,4176,,,,33555,,691777,,All firms
 6670,"Arts, entertainment, and recreation",Classifiable,Classifiable,Classifiable,Classifiable,All firms,2018,107572,,,,1080822,,41725773,,All firms
@@ -6719,10 +6719,10 @@
 6717,Health care and social assistance,Total,Total,American Indian and Alaska Native,Total,Not jointly owned by spouses,2018,1014,91.2,,,3864,80.1,161518,84.9,All firms
 6718,Health care and social assistance,Total,Total,American Indian and Alaska Native,Total,Total reporting,2018,1112,100.0,,,4825,100.0,190317,100.0,All firms
 6719,Health care and social assistance,Total,Total,American Indian and Alaska Native,Total,Item not reported,2018,,,,,,,,,All firms
-6720,Health care and social assistance,Total,Total,Asian,Total,All firms,2018,78383,,,,673308,,28641834,,All firms
-6721,Health care and social assistance,Total,Total,Asian,Total,Jointly owned and equally operated by spouses,2018,2339,5.9,,,23513,8.8,926180,7.0,All firms
-6722,Health care and social assistance,Total,Total,Asian,Total,Jointly owned but primarily operated by male spouse,2018,880,2.2,,,8461,3.2,304720,2.3,All firms
-6723,Health care and social assistance,Total,Total,Asian,Total,Jointly owned but primarily operated by female spouse,2018,841,2.1,,,6925,2.6,168449,1.3,All firms
+6720,Health care and social assistance,Total,Total,Asian,Total,Jointly owned but primarily operated by female spouse,2018,841,2.1,,,6925,2.6,168449,1.3,All firms
+6721,Health care and social assistance,Total,Total,Asian,Total,All firms,2018,78383,,,,673308,,28641834,,All firms
+6722,Health care and social assistance,Total,Total,Asian,Total,Jointly owned and equally operated by spouses,2018,2339,5.9,,,23513,8.8,926180,7.0,All firms
+6723,Health care and social assistance,Total,Total,Asian,Total,Jointly owned but primarily operated by male spouse,2018,880,2.2,,,8461,3.2,304720,2.3,All firms
 6724,Health care and social assistance,Total,Total,Asian,Total,Not jointly owned by spouses,2018,35911,89.8,,,228152,85.4,11786137,89.4,All firms
 6725,"Arts, entertainment, and recreation",Equally male/female,Total,Total,Total,All firms,2018,18975,,,,204501,,5967190,,All firms
 6726,"Arts, entertainment, and recreation",Equally male/female,Total,Total,Total,Jointly owned and equally operated by spouses,2018,3516,60.1,,,31327,68.0,597631,64.8,All firms
@@ -6754,10 +6754,10 @@
 6752,"Arts, entertainment, and recreation",Equally male/female,Hispanic,Total,Total,Item not reported,2018,,,,,,,,,All firms
 6753,"Arts, entertainment, and recreation",Total,Equally Hispanic/non-Hispanic,Total,Total,All firms,2018,,,,,,,,,All firms
 6754,"Arts, entertainment, and recreation",Total,Equally Hispanic/non-Hispanic,Total,Total,Jointly owned and equally operated by spouses,2018,150,49.7,,,240,33.2,8368,31.6,All firms
-6755,"Arts, entertainment, and recreation",Total,Equally Hispanic/non-Hispanic,Total,Total,Jointly owned but primarily operated by male spouse,2018,,,,,,,,,All firms
-6756,"Arts, entertainment, and recreation",Total,Equally Hispanic/non-Hispanic,Total,Total,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
-6757,"Arts, entertainment, and recreation",Total,Equally Hispanic/non-Hispanic,Total,Total,Not jointly owned by spouses,2018,,,,,,,,,All firms
-6758,"Arts, entertainment, and recreation",Total,Equally Hispanic/non-Hispanic,Total,Total,Total reporting,2018,302,100.0,,,723,100.0,26498,100.0,All firms
+6755,"Arts, entertainment, and recreation",Total,Equally Hispanic/non-Hispanic,Total,Total,Total reporting,2018,302,100.0,,,723,100.0,26498,100.0,All firms
+6756,"Arts, entertainment, and recreation",Total,Equally Hispanic/non-Hispanic,Total,Total,Jointly owned but primarily operated by male spouse,2018,,,,,,,,,All firms
+6757,"Arts, entertainment, and recreation",Total,Equally Hispanic/non-Hispanic,Total,Total,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
+6758,"Arts, entertainment, and recreation",Total,Equally Hispanic/non-Hispanic,Total,Total,Not jointly owned by spouses,2018,,,,,,,,,All firms
 6759,"Arts, entertainment, and recreation",Total,Equally Hispanic/non-Hispanic,Total,Total,Item not reported,2018,,,,,,,,,All firms
 6760,"Arts, entertainment, and recreation",Female,Equally Hispanic/non-Hispanic,Total,Total,All firms,2018,,,,,,,,,All firms
 6761,"Arts, entertainment, and recreation",Female,Equally Hispanic/non-Hispanic,Total,Total,Not jointly owned by spouses,2018,,,,,,,,,All firms
@@ -7735,10 +7735,10 @@
 7733,Other services (except public administration),Equally male/female,Total,Minority,Total,Not jointly owned by spouses,2018,1356,23.8,,,5791,22.1,128100,21.1,All firms
 7734,Other services (except public administration),Equally male/female,Total,Minority,Total,Total reporting,2018,5686,100.0,,,26206,100.0,607406,100.0,All firms
 7735,Other services (except public administration),Equally male/female,Total,Minority,Total,Item not reported,2018,1777,,,,6598,,155549,,All firms
-7736,Other services (except public administration),Total,Total,Equally minority/nonminority,Total,All firms,2018,7389,,,,52276,,1508204,,All firms
-7737,Other services (except public administration),Total,Total,Equally minority/nonminority,Total,Jointly owned and equally operated by spouses,2018,855,36.3,,,6083,43.2,160108,40.9,All firms
-7738,Other services (except public administration),Total,Total,Equally minority/nonminority,Total,Jointly owned but primarily operated by male spouse,2018,526,22.3,,,1673,11.9,46416,11.9,All firms
-7739,Other services (except public administration),Total,Total,Equally minority/nonminority,Total,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
+7736,Other services (except public administration),Total,Total,Equally minority/nonminority,Total,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
+7737,Other services (except public administration),Total,Total,Equally minority/nonminority,Total,All firms,2018,7389,,,,52276,,1508204,,All firms
+7738,Other services (except public administration),Total,Total,Equally minority/nonminority,Total,Jointly owned and equally operated by spouses,2018,855,36.3,,,6083,43.2,160108,40.9,All firms
+7739,Other services (except public administration),Total,Total,Equally minority/nonminority,Total,Jointly owned but primarily operated by male spouse,2018,526,22.3,,,1673,11.9,46416,11.9,All firms
 7740,Other services (except public administration),Total,Total,Equally minority/nonminority,Total,Not jointly owned by spouses,2018,797,33.8,,,5094,36.2,155641,39.8,All firms
 7741,Other services (except public administration),Total,Total,Equally minority/nonminority,Total,Total reporting,2018,2358,100.0,,,14080,100.0,391164,100.0,All firms
 7742,Other services (except public administration),Total,Total,Equally minority/nonminority,Total,Item not reported,2018,767,,,,6405,,216402,,All firms
@@ -7813,10 +7813,10 @@
 7811,Industries not classified,Female,Total,Total,Total,All firms,2018,2466,,,,13832,,139659,,All firms
 7812,Industries not classified,Female,Total,Total,Total,Jointly owned and equally operated by spouses,2018,,,,,,,,,All firms
 7813,Industries not classified,Female,Total,Total,Total,Jointly owned but primarily operated by male spouse,2018,,,,,,,,,All firms
-7814,Industries not classified,Total,Total,Nonminority,Equally veteran/nonveteran,Item not reported,2018,122,,,,147,,2099,,All firms
-7815,Industries not classified,Total,Total,Total,Nonveteran,All firms,2018,18302,,,,73980,,893409,,All firms
-7816,Industries not classified,Total,Total,Total,Nonveteran,Jointly owned and equally operated by spouses,2018,1325,26.5,,,9627,46.6,60649,28.8,All firms
-7817,Industries not classified,Total,Total,Total,Nonveteran,Jointly owned but primarily operated by male spouse,2018,1178,23.6,,,3504,17.0,37095,17.6,All firms
+7814,Industries not classified,Total,Total,Total,Nonveteran,Jointly owned but primarily operated by male spouse,2018,1178,23.6,,,3504,17.0,37095,17.6,All firms
+7815,Industries not classified,Total,Total,Nonminority,Equally veteran/nonveteran,Item not reported,2018,122,,,,147,,2099,,All firms
+7816,Industries not classified,Total,Total,Total,Nonveteran,All firms,2018,18302,,,,73980,,893409,,All firms
+7817,Industries not classified,Total,Total,Total,Nonveteran,Jointly owned and equally operated by spouses,2018,1325,26.5,,,9627,46.6,60649,28.8,All firms
 7818,Industries not classified,Total,Total,Total,Nonveteran,Jointly owned but primarily operated by female spouse,2018,25,0.5,,,57,0.3,956,0.5,All firms
 7819,Industries not classified,Total,Total,Total,Nonveteran,Not jointly owned by spouses,2018,2463,49.3,,,7454,36.1,111994,53.2,All firms
 7820,Industries not classified,Total,Total,Total,Nonveteran,Total reporting,2018,4992,100.0,,,20643,100.0,210694,100.0,All firms
@@ -7838,10 +7838,10 @@
 7836,Industries not classified,Equally male/female,Total,Total,Nonveteran,All firms,2018,7339,,,,29619,,294306,,All firms
 7837,Industries not classified,Equally male/female,Total,Total,Nonveteran,Jointly owned and equally operated by spouses,2018,1149,54.9,,,5220,67.2,54647,64.8,All firms
 7838,Industries not classified,Equally male/female,Total,Total,Nonveteran,Jointly owned but primarily operated by male spouse,2018,776,37.1,,,2200,28.3,23393,27.8,All firms
-7839,Industries not classified,Equally male/female,Total,Total,Nonveteran,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
-7840,Industries not classified,Equally male/female,Total,Total,Nonveteran,Not jointly owned by spouses,2018,161,7.7,,,333,4.3,5872,7.0,All firms
-7841,Industries not classified,Equally male/female,Total,Total,Nonveteran,Total reporting,2018,2091,100.0,,,7773,100.0,84284,100.0,All firms
-7842,Industries not classified,Equally male/female,Total,Total,Nonveteran,Item not reported,2018,566,,,,9310,,20150,,All firms
+7839,Industries not classified,Equally male/female,Total,Total,Nonveteran,Item not reported,2018,566,,,,9310,,20150,,All firms
+7840,Industries not classified,Equally male/female,Total,Total,Nonveteran,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
+7841,Industries not classified,Equally male/female,Total,Total,Nonveteran,Not jointly owned by spouses,2018,161,7.7,,,333,4.3,5872,7.0,All firms
+7842,Industries not classified,Equally male/female,Total,Total,Nonveteran,Total reporting,2018,2091,100.0,,,7773,100.0,84284,100.0,All firms
 7843,Industries not classified,Total,Hispanic,Total,Nonveteran,All firms,2018,239,,,,2105,,18429,,All firms
 7844,Industries not classified,Total,Hispanic,Total,Nonveteran,Jointly owned and equally operated by spouses,2018,,,,,,,,,All firms
 7845,Industries not classified,Total,Hispanic,Total,Nonveteran,Jointly owned but primarily operated by male spouse,2018,,,,,,,,,All firms
@@ -7863,10 +7863,10 @@
 7861,Industries not classified,Total,Total,Minority,Nonveteran,Jointly owned and equally operated by spouses,2018,23,15.0,,,570,30.6,827,7.9,All firms
 7862,Industries not classified,Total,Total,Minority,Nonveteran,Jointly owned but primarily operated by male spouse,2018,,,,,,,,,All firms
 7863,Industries not classified,Total,Total,Minority,Nonveteran,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
-7864,Industries not classified,Total,Total,Minority,Nonveteran,Not jointly owned by spouses,2018,109,71.2,,,1246,67.0,8885,84.8,All firms
-7865,Industries not classified,Total,Total,Minority,Nonveteran,Total reporting,2018,153,100.0,,,1861,100.0,10474,100.0,All firms
-7866,Industries not classified,Total,Total,Minority,Nonveteran,Item not reported,2018,38,,,,94,,1797,,All firms
-7867,Industries not classified,Total,Total,Equally minority/nonminority,Nonveteran,All firms,2018,179,,,,319,,10766,,All firms
+7864,Industries not classified,Total,Total,Equally minority/nonminority,Nonveteran,All firms,2018,179,,,,319,,10766,,All firms
+7865,Industries not classified,Total,Total,Minority,Nonveteran,Not jointly owned by spouses,2018,109,71.2,,,1246,67.0,8885,84.8,All firms
+7866,Industries not classified,Total,Total,Minority,Nonveteran,Total reporting,2018,153,100.0,,,1861,100.0,10474,100.0,All firms
+7867,Industries not classified,Total,Total,Minority,Nonveteran,Item not reported,2018,38,,,,94,,1797,,All firms
 7868,Industries not classified,Total,Total,Equally minority/nonminority,Nonveteran,Jointly owned and equally operated by spouses,2018,,,,,,,,,All firms
 7869,Industries not classified,Total,Total,Equally minority/nonminority,Nonveteran,Jointly owned but primarily operated by male spouse,2018,,,,,,,,,All firms
 7870,Industries not classified,Total,Total,Equally minority/nonminority,Nonveteran,Total reporting,2018,,,,,,,,,All firms
@@ -7887,9 +7887,9 @@
 7885,Industries not classified,Classifiable,Classifiable,Classifiable,Classifiable,Item not reported,2018,,,,,,,,,All firms
 7886,Industries not classified,Unclassifiable,Unclassifiable,Unclassifiable,Unclassifiable,All firms,2018,,,,,,,,,All firms
 7887,Industries not classified,Unclassifiable,Unclassifiable,Unclassifiable,Unclassifiable,Not applicable,2018,,,,,,,,,All firms
-7888,Industries not classified,Total,Non-Hispanic,Total,Total,Not jointly owned by spouses,2018,2679,48.0,,,6618,33.6,111577,50.8,All firms
-7889,Industries not classified,Total,Non-Hispanic,Total,Total,Total reporting,2018,5581,100.0,,,19706,100.0,219494,100.0,All firms
-7890,Industries not classified,Total,Non-Hispanic,Total,Total,Item not reported,2018,1081,,,,14525,,36144,,All firms
+7888,Industries not classified,Total,Non-Hispanic,Total,Total,Item not reported,2018,1081,,,,14525,,36144,,All firms
+7889,Industries not classified,Total,Non-Hispanic,Total,Total,Not jointly owned by spouses,2018,2679,48.0,,,6618,33.6,111577,50.8,All firms
+7890,Industries not classified,Total,Non-Hispanic,Total,Total,Total reporting,2018,5581,100.0,,,19706,100.0,219494,100.0,All firms
 7891,Industries not classified,Female,Non-Hispanic,Total,Total,All firms,2018,2389,,,,13695,,136611,,All firms
 7892,Industries not classified,Female,Non-Hispanic,Total,Total,Jointly owned and equally operated by spouses,2018,,,,,,,,,All firms
 7893,Industries not classified,Female,Non-Hispanic,Total,Total,Jointly owned but primarily operated by female spouse,2018,14,2.6,,,23,2.4,210,0.9,All firms
@@ -7979,10 +7979,10 @@
 7977,Industries not classified,Total,Total,Nonminority,Total,All firms,2018,19693,,,,78143,,1091145,,All firms
 7978,Industries not classified,Total,Total,Nonminority,Total,Jointly owned and equally operated by spouses,2018,1553,28.5,,,9396,48.2,69253,32.2,All firms
 7979,Industries not classified,Total,Total,Nonminority,Total,Jointly owned but primarily operated by male spouse,2018,1267,23.3,,,3544,18.2,36089,16.8,All firms
-7980,Industries not classified,Total,Total,Nonminority,Total,Jointly owned but primarily operated by female spouse,2018,17,0.3,,,49,0.3,875,0.4,All firms
-7981,Industries not classified,Total,Total,Nonminority,Total,Not jointly owned by spouses,2018,2603,47.8,,,6513,33.4,108869,50.6,All firms
-7982,Industries not classified,Total,Total,Nonminority,Total,Total reporting,2018,5443,100.0,,,19502,100.0,215085,100.0,All firms
-7983,Industries not classified,Total,Total,Nonminority,Total,Item not reported,2018,1053,,,,14474,,35056,,All firms
+7980,Industries not classified,Total,Total,Nonminority,Total,Item not reported,2018,1053,,,,14474,,35056,,All firms
+7981,Industries not classified,Total,Total,Nonminority,Total,Jointly owned but primarily operated by female spouse,2018,17,0.3,,,49,0.3,875,0.4,All firms
+7982,Industries not classified,Total,Total,Nonminority,Total,Not jointly owned by spouses,2018,2603,47.8,,,6513,33.4,108869,50.6,All firms
+7983,Industries not classified,Total,Total,Nonminority,Total,Total reporting,2018,5443,100.0,,,19502,100.0,215085,100.0,All firms
 7984,Industries not classified,Female,Total,Nonminority,Total,All firms,2018,2131,,,,13305,,124973,,All firms
 7985,Industries not classified,Female,Total,Nonminority,Total,Jointly owned and equally operated by spouses,2018,,,,,,,,,All firms
 7986,Industries not classified,Female,Total,Nonminority,Total,Jointly owned but primarily operated by female spouse,2018,,,,,,,,,All firms
