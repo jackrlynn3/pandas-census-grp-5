@@ -8,7 +8,7 @@
 
 ### **Summary**
 
-Because of historical inequity and persisting racism, misogyny, and xenophobia, **the United States job market disadvantages certain ethnic, racial, and sex groups**. This data exploration project uses the [**Census's Annual Business Survey (ABS)**](https://www.census.gov/data/developers/data-sets/abs.2019.html) to explore these disparities and **characterize the demographic trends of the US job market**. First, the data is imported through **Census APIs** and **transformed using a specified ETL process (`etl.ipynb`)**. Second, the data is **transformed** and **graphically depicted** to characterize ethnic, racial, and sexual disparities in business ownership and employeeship. Third, findings are summarized in two reports, one **PowerPoint presentation** and one **report** (*See the `reports` directory*).
+Because of historical inequity and persisting racism, misogyny, and xenophobia, **the United States job market disadvantages certain ethnic, racial, and sex groups**. This data exploration project uses the [**Census's Annual Business Survey (ABS)**](https://www.census.gov/data/developers/data-sets/abs.2019.html) to explore these disparities and **characterize the demographic trends of the US job market**. First, the data is imported through **Census APIs** and **transformed using a specified ETL process (`etl.ipynb`)**. Second, the data is **transformed** and **graphically depicted** to characterize ethnic, racial, and sexual disparities in business ownership and employeeship. Third, findings are summarized in three reports, one **PowerPoint presentation** (`presentation.pptx`), one **ETL** document (`etl.doc`), and one **report** (`report.doc`) (*See the `reports` directory*).
 
 ### **Datasets**
 
@@ -39,4 +39,4 @@ Because of historical inequity and persisting racism, misogyny, and xenophobia, 
 1. Fork this GitHub directory and save to harddrive.
 2. Run the `etl.ipynb` in your Jupyter notebook interpreter to form cleaned data files, saved in `data` as CSV files. This step may not be necessary because the data is already cleaned, saved, and pushed in the `data` directory with the GitHub repository.
 3. Run the `visualizations.ipynb` in your Jupyter notebook interpreter to get graphical visualizations and see how the data is analyzed.
-4. Read reports stored in `reports` document to get interpretation of data.
+4. Read reports stored in `reports` document to get interpretation of data. The ETL document describing the importing and cleaning process is also stored here.
